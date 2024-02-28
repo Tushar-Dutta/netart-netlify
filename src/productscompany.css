@@ -1,0 +1,39 @@
+.productsLogo {
+  max-width: 80%;
+  height: auto;
+  align-items: center;
+}
+
+.productsCompany {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.productsCompany p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.productsCompany p hr {
+  border: none;
+  border-right: 1px solid #f05a50;
+  height: 1em;
+  margin: 0 4px;
+  padding: 0;
+  display: inline-block;
+  width: 1px;
+}
+
+.line{
+    height: 3%;
+  width: 97%;
+  background-color: #da2e33;
+  border: none;
+  border-radius: 1px;
+  display: flex;
+}

@@ -1,0 +1,34 @@
+footer {
+    background-color: #ec3237;
+    color: white;
+    display: flex;
+    padding: 10% 0;
+    justify-content: space-around;
+}
+  
+footer div {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+footer div a{
+    text-decoration: none;
+    color: white;
+}
+
+.phoneLogo {
+    max-width: 7%;
+    height: auto;
+}
+
+.facebookLogo {
+    max-width: 17.92%;
+    height: auto;
+}
+
+.linkLogo {
+    max-width: 26.52%;
+    height: auto;
+}
+  

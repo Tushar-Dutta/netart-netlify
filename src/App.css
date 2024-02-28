@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap");
+
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: linear-gradient(to top, #fff8aa, #fffffe);
+  margin: 0;
+  padding: 10px;
+}
+
+.App {
+  max-width: fit-content;
+  display: flex;
+  flex-direction: column;
+  font-family: "DM Serif Display", serif;
+  font-size: 1.5vw;
+}

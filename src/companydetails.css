@@ -1,0 +1,22 @@
+@media only screen and (max-width: 614px)
+{
+  .detailsCompany {
+    display: flex;
+    font-size: 1.5vw;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}
+
+.detailsCompany {
+    display: flex;
+    font-size: 1.5vw;
+  }
+  .trophyLogo {
+    max-width: 30%;
+    height: auto;
+  }
+  .companyLogo {
+    max-width: 100%;
+    height: auto;
+  }
